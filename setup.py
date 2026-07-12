@@ -1,5 +1,6 @@
 from setuptools import setup, find_packages
 setup(
+    license="MIT",
     name="fleet-proto",
     version="0.1.0",
     packages=find_packages(where="src"),
